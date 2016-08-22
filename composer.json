@@ -1,0 +1,13 @@
+{
+    "name": "switchme/testing",
+    "type": "project",
+    "require": {
+        "frameworks/jquery": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Sourasis Roy",
+            "email": "sourasis.roy@switchme.in"
+        }
+    ]
+}
